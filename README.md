@@ -23,8 +23,6 @@ João,7.5,30
 Lia,9,22
 Carlos,6,28
 
-![grafico notas alunos](https://github.com/user-attachments/assets/e28d4781-8d74-4e4e-a753-a9f16a4fbfa6)
-
 ## Como executar
 
 ```bash
