@@ -23,6 +23,8 @@ João,7.5,30
 Lia,9,22
 Carlos,6,28
 
+## ![image](https://github.com/user-attachments/assets/31df7552-d682-4400-af5c-e7675f3ac4b3)
+
 
 ## Como executar
 
