@@ -23,7 +23,7 @@ João,7.5,30
 Lia,9,22
 Carlos,6,28
 
-## ![image](https://github.com/user-attachments/assets/31df7552-d682-4400-af5c-e7675f3ac4b3)
+![grafico notas alunos](https://github.com/user-attachments/assets/e28d4781-8d74-4e4e-a753-a9f16a4fbfa6)
 
 
 ## Como executar
